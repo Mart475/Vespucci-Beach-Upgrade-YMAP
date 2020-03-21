@@ -49,3 +49,7 @@ This YMAP does not need a warning. It's very simple and has no known errors.
 **Download.**
 
 [Vespucci Beach Upgrade YMAP - Download.](https://github.com/Mart475/Vespucci-Beach-Upgrade-YMAP)
+
+---
+
+**Developed for [RepublicMP](https://forum.cfx.re/t/republicmp-ts3-voip-realistic-economy-lore-friendly-no-lag-texture-loss-immersive-eup-8-1-discord-gg-99krxme/434713).**
