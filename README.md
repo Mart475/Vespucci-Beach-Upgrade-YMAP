@@ -20,15 +20,15 @@ This YMAP does not need a warning. It's very simple and has no known errors.
 
 **Pictures.**
 
-![1|690x388](upload://q81kwLb7cb1zO2b7ZyNZzyOQVqc.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/b/7/2/b720a69aaac81d74cbb65bfc5dfd933ebed832bc.jpeg "1")
 
-![2|690x388](upload://2Ysjhm45UZiq3yrTiT3BC0qPFGy.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/1/4/d/14d9dbfffb9b8124e77a4aeb806b27d535ae36fa.jpeg "2")
 
-![3|690x388](upload://9gn2oNQCsEYpe4QXMgvNkrpsEYt.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/4/0/e/40ed54e38e61be0f1eb3ebfcf7ab33b566ce5015.jpeg "3")
 
-![4|690x388](upload://bQQX0C68usUp1fl6pEg4TtbdfP4.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/5/3/1/53116b7748423bdde627a362281d93bdda783d02.jpeg "4")
 
-![5|690x388](upload://zP0sOPuJJL1Rywqw4Zg0bPtcDMx.jpeg) 
+![alt text](https://forum.cfx.re/uploads/default/original/4X/f/b/1/fb10289d750ec0608cf880a81d9a24bd1d9f012d.jpeg "5")
 
 ---
 
