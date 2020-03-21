@@ -12,6 +12,20 @@ Vespucci Beach Upgrade is an upgrade of the Vespucci Beach area which adds about
 
 ---
 
+**Installation.**
+
+* 1: Download Vespucci Beach Upgrade YMAP.
+
+* 2: Un-zip the contents of the zip file.
+
+* 3: Insert into the resources folder (FiveM Server).
+
+* 4: Start the resource (start vespuccibeachupgrade).
+
+* 5: You have successfully installed this YMAP.
+
+---
+
 **Warning.**
 
 This YMAP does not need a warning. It's very simple and has no known errors.
