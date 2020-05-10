@@ -2,19 +2,7 @@
 
 ---
 
-**Developed for [RepublicMP](https://forum.cfx.re/t/republicmp-ts3-voip-realistic-economy-lore-friendly-no-lag-texture-loss-immersive-eup-8-1-discord-gg-99krxme/434713).**
-
----
-
-Vespucci Beach Upgrade is an upgrade of the Vespucci Beach area which adds about 85+ new props to the area. It was made in Codewalker with each prop being placed by hand and moved into position. This YMAP is a super simple upgrade of area, which improves the asthetics.
-
----
-
-**Key Features.**
-
-* New props to make the area look better.
-* Hand placed using Codewalker.
-* Semi-realistic prop placement.
+The Vespucci Beach Upgrade is an upgrade of the Vespucci Beach area which adds about 85+ new props to the area. It was created in Codewalker with hand placed prop perfection. This YMAP is a super simple upgrade of the area, which improves aesthetics.
 
 ---
 
