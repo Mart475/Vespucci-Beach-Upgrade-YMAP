@@ -43,3 +43,9 @@ This YMAP does not need a warning. It's very simple and has no known errors.
 **Download.**
 
 [Vespucci Beach Upgrade YMAP - Download.](https://github.com/Mart475/Vespucci-Beach-Upgrade-YMAP)
+
+---
+
+**FiveM Forum.**
+
+[FiveM Forum Link.](https://forum.cfx.re/t/release-ymap-vespucci-beach-upgrade/1075710)
