@@ -6,7 +6,7 @@
 
 ---
 
-*Golden sand, all along Vespucci. Tall palm’s, and a cool breeze. Nothing could make it bettter except a few upgrades to plant some new vegetation around.*
+*Golden sand, all along Vespucci. Tall palm’s, and a cool breeze. Nothing could make it better except a few upgrades to plant some new vegetation around.*
 
 ---
 
