@@ -6,7 +6,7 @@
 
 ---
 
-**Mart Modifications Discord: https://discord.gg/RGuhx6b**
+**Mart Customs Discord: https://discord.gg/SegGHNU**
 
 ---
 
